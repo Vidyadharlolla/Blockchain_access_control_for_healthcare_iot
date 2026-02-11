@@ -1,7 +1,3 @@
-Here’s a polished **README.md** draft for your repository:
-
----
-
 # Blockchain Access Control for Healthcare IoT
 
 ## 📌 Overview
@@ -70,7 +66,3 @@ Contributions are welcome! Please fork the repo, create a feature branch, and su
 
 ## 📜 License
 This project is licensed under the MIT License.
-
----
-
-Would you like me to also draft a **research-style abstract** for this project (like you’d include in a paper or seminar), so you can use it for presentations?
