@@ -1,7 +1,7 @@
 # Blockchain Access Control for Healthcare IoT
 
 ## 📌 Overview
-This project implements a **blockchain-based access control system** tailored for **Healthcare IoT environments**. It leverages the immutability, transparency, and decentralized nature of blockchain to ensure secure data sharing among patients, doctors, hospitals, and other stakeholders. The system aims to mitigate risks such as unauthorized access, data tampering, and privacy breaches in healthcare IoT networks.
+Developed a blockchain-based access control system for **Healthcare IoT** as part of a team project, focusing on smart contract design and backend integration. It leverages the immutability, transparency, and decentralized nature of blockchain to ensure secure data sharing among patients, doctors, hospitals, and other stakeholders. The system aims to mitigate risks such as unauthorized access, data tampering, and privacy breaches in healthcare IoT networks.
 
 ## 🚀 Features
 - **Decentralized Access Control**: Eliminates reliance on centralized authorities.
